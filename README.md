@@ -26,4 +26,4 @@
 
 - [Modern JavaScript From the beginning](https://www.udemy.com/certificate/UC-4ffb5260-f904-45ce-86e3-4dce4a289811/) @udemy
 - [Modern HTML & CSS From the Beginning (Including Sass)](https://www.udemy.com/certificate/UC-8ebe193d-d8ce-4dbb-bb0d-342f4e2c8ef9/) @udemy
-- [React Front To Back](https://www.udemy.com/certificate/UC-608a4139-6540-4758-96de-dd51a0d221ed/) @udemy
+
