@@ -22,8 +22,3 @@
 - ⚡ &nbsp; Fun fact: I'm a huge fan of F1 &nbsp;🏎 &nbsp; and I&nbsp;❤️ &nbsp; hiking and being outdoors. Since I moved to North Carolina, that’s how  my hubby, our &nbsp; 🐶 &nbsp; and I usually spend our weekends and time (when it’s possible!). I feel like I have more energy when I return to work on Mondays if I’ve spent some time outdoors on the weekend.
 
 
-### Certifications &nbsp;💻
-
-- [Modern JavaScript From the beginning](https://www.udemy.com/certificate/UC-4ffb5260-f904-45ce-86e3-4dce4a289811/) @udemy
-- [Modern HTML & CSS From the Beginning (Including Sass)](https://www.udemy.com/certificate/UC-8ebe193d-d8ce-4dbb-bb0d-342f4e2c8ef9/) @udemy
-
