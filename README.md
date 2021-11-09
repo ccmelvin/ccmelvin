@@ -9,7 +9,7 @@
 
 ### I was fascinated with &nbsp; 🖥 &nbsp; computers from a young age, my biggest passion is learning  software, design and technology and I’m always looking to challenge myself and learn new things.   As a Frontend Developer, I get to shape how the internet is progressing and how websites are evolving, and that’s exciting to me!
 
-- I'm currently looking for a new opportunity, my Resume:  <a href="CassiaMelvinResume.pdf">Download PDF</a>
+- I'm currently looking for a new opportunity, my Resume:  <a href="CassiaMelvinResume-v2-2021.pdf">Download PDF</a>
 
 - 📫 &nbsp; Shoot me an [Email](mailto:cassiamelvin@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/cassiamelvin/)
 
