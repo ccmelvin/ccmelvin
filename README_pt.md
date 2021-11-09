@@ -10,7 +10,7 @@
 
 ### Eu sempre fui fascinada por  &nbsp; 🖥 &nbsp; computadores desde de pequena, algumas das minhas maiores paixões são software, design e technologia e procuro me desafiar em aprender e praticar novas tecnologias. E como desenvolvidora Frontend, eu tenho a oportunidade de participar em como a internet esta evoluindo e como Sites são importantes e como estão presentes no nosso dia-a-dia!
 
-- Estou procurando por novos trabalhos :  <a href="CassiaMelvinResume.pdf">Download PDF</a>
+- Estou procurando por novos trabalhos :  <a href="CassiaMelvinResumeGithub.pdf">Download PDF</a>
 
 - 📫 &nbsp; Se quiser entrar em contato [Email](mailto:cassiamelvin@gmail.com) ou me adicione no [LinkedIn](https://www.linkedin.com/in/cassiamelvin/)
 
