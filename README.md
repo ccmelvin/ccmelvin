@@ -5,7 +5,7 @@
 
 
 
-##  &nbsp; Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my Github, I'm Cass.
+##  &nbsp; Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> Welcome to my Github, I'm Cass.
 
 ### I was fascinated with &nbsp; 🖥 &nbsp; computers from a young age, my biggest passion is learning  software, design and technology and I’m always looking to challenge myself and learn new things.   As a Frontend Developer, I get to shape how the internet is progressing and how websites are evolving, and that’s exciting to me!
 
