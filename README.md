@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Cassia  
 **Fullstack Developer with a Frontend Focus**
 
-I create seamless, accessible, and intelligent web apps powered by modern tech and AI.
+Creating the next wave of web apps with a focus on generative AI and flawless UX.
 
 - **Frontend:** `React`, `Next.js`, `TypeScript`, `Tailwind`  
 - **Serverless & Cloud:** `AWS Services` (Lambda, Cognito, RDS, S3, Amplify)    
