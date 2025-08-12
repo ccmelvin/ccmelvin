@@ -1,20 +1,28 @@
 ## 👋 Hi, I’m Cassia  
-**Fullstack Developer with a Frontend Focus**
+**Cloud Solutions Architect | DevOps Engineer | Full-Stack Developer**
 
-Creating the next wave of web apps with a focus on generative AI and flawless UX.
+Designing scalable, secure cloud architectures across multiple platforms with a focus on serverless solutions, infrastructure automation, and security best practices. Passionate about guiding teams through cloud transformation and creating well-architected solutions.
 
-- **Frontend:** `React`, `Next.js`, `TypeScript`, `Tailwind`  
-- **Serverless & Cloud:** `AWS Services` (Lambda, Cognito, RDS, S3, Amplify)    
-- **GenAI & DevTools:** `Amazon Q CLI`, `GitHub Copilot`, `Cursor`  
+## 🏗️ Core Expertise
+- **Cloud Architecture:** AWS (Lambda, Cognito, DynamoDB, S3, RDS, Amplify), Multi-cloud patterns
+- **Infrastructure & DevOps:** Infrastructure as Code, CI/CD Pipelines, GitHub Actions, Docker, Serverless Framework
+- **Security & Compliance:** IAM Policy Management, RBAC, MFA, Security Automation
+- **Development:** React, TypeScript, Next.js, Node.js, Python, REST APIs, GraphQL
 
 **Favorite Tech Stack:**  
-[![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/) [![React](https://img.shields.io/badge/React-18-blue?style=flat-square&logo=react)](https://reactjs.org/) [![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)
+**Cloud & Infrastructure:**
+- [AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+- [Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
+- [Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+- [GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 
+**Development:**
+- [TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+- [Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+- [React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+- [Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+- [Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
-
-Always exploring better ways to build — from serverless to AI-assisted development.
-
----
 
 📄 **Latest article:**  
 [Amazon Q and IAM Access Analyzer: Catch Dangerous IAM Policies Early](https://builder.aws.com/content/30bT1ycIX5Jzf9JitzznnRQvjPU/amazon-q-and-iam-access-analyzer-catch-dangerous-iam-policies-early)
@@ -26,4 +34,4 @@ Always exploring better ways to build — from serverless to AI-assisted develop
 
 ### 🌲 Fun Fact
 
-I love exploring the North Carolina mountains year-round, with fall being my absolute favorite season for hiking and soaking in the vibrant colors. When I’m not outdoors, I’m a hardcore Formula 1 fan proudly Brazilian and forever inspired by Ayrton Senna.
+Outside of work, I'm either exploring the beautiful NC mountains (fall hiking is my absolute favorite!) or cheering on my F1 drivers. As a proud Brazilian, Ayrton Senna remains my ultimate inspiration both on and off the track.
