@@ -1,13 +1,26 @@
-## 👋 Hi, I’m Cassia  
-**Cloud Solutions Architect | DevOps Engineer | Full-Stack Developer**
+# 👋 Hi, I’m Cassia
 
-Designing scalable, secure cloud architectures across multiple platforms with a focus on serverless solutions, infrastructure automation, and security best practices. Passionate about guiding teams through cloud transformation and creating well-architected solutions.
+## Cloud Solutions Engineer | Full-Stack Developer | DevOps Enthusiast
+
+Building scalable, secure, and performant cloud-native applications with a focus on serverless solutions, automated CI/CD, and security best practices. Passionate about bridging frontend and backend development to deliver reliable user experiences and measurable business impact.
 
 ## 🏗️ Core Expertise
-- **Cloud Architecture:** AWS (Lambda, Cognito, DynamoDB, S3, RDS, Amplify), Multi-cloud patterns
-- **Infrastructure & DevOps:** Infrastructure as Code, CI/CD Pipelines, GitHub Actions, Docker, Serverless Framework
-- **Security & Compliance:** IAM Policy Management, RBAC, MFA, Security Automation
-- **Development:** React, TypeScript, Next.js, Node.js, Python, REST APIs, GraphQL
+
+- Cloud & Serverless: AWS (Lambda, Cognito, DynamoDB, S3, RDS, Amplify), Event-driven architectures
+
+- DevOps & Infrastructure: CI/CD pipelines, GitHub Actions, Docker, Infrastructure as Code
+
+- Security & Compliance: IAM, RBAC, MFA, secure authentication flows, FERPA/COPPA compliance
+
+- Frontend & Backend Development: React, TypeScript, Next.js, Node.js, REST APIs
+
+### **Favorite Tech Stack:**
+
+- **Cloud & Infrastructure:** AWS, Serverless Framework, Docker, GitHub Actions
+
+- **Frontend Development:** React, Next.js, TypeScript, Tailwind CSS, styled-components, Framer Motion
+
+- **Backend Development:** Node.js, PostgreSQL, DynamoDB
 
 **Favorite Tech Stack:**  
 **Cloud & Infrastructure:**
@@ -20,7 +33,6 @@ Designing scalable, secure cloud architectures across multiple platforms with a 
 - [TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 - [Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
 - [React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-- [Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 - [Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
 
