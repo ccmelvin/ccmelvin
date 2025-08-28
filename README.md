@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Cassia
 
-## Cloud Solutions Engineer | Full-Stack Developer | DevOps Enthusiast
+## Cloud Solutions Engineer | Full-Stack Developer
 
 Building scalable, secure, and performant cloud-native applications with a focus on serverless solutions, automated CI/CD, and security best practices. Passionate about bridging frontend and backend development to deliver reliable user experiences and measurable business impact.
 
